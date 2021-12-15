@@ -12,3 +12,5 @@
 [Research Statement](https://github.com/duncansutherland/UoM/blob/gh-pages/researchStatement2.pdf)
 
 [Talk abstract](https://github.com/duncansutherland/UoM/blob/gh-pages/researchTalkAbstract.pdf)
+
+[Talk slides (movies replaced with images)](https://github.com/duncansutherland/UoM/blob/gh-pages/presentationPDFreducedSize.pdf)
