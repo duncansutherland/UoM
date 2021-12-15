@@ -7,7 +7,7 @@
 
 [cv](https://github.com/duncansutherland/UoM/blob/gh-pages/cv20210921.pdf)
 
-[Research Statement](https://github.com/duncansutherland/UoM/blob/gh-pages/publicationsList.pdf)
+[Publications](https://github.com/duncansutherland/UoM/blob/gh-pages/publicationsList.pdf)
 
 [Research Statement](https://github.com/duncansutherland/UoM/blob/gh-pages/researchStatement2.pdf)
 
